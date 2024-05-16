@@ -23,7 +23,7 @@
         <druid-spring-boot-starter>1.1.18</druid-spring-boot-starter>
         <velocity.version>1.7</velocity.version>
         <spring4all.swagger.version>1.9.0.RELEASE</spring4all.swagger.version>
-        <hutool.version>4.6.1</hutool.version>
+        <hutool.version>5.8.21</hutool.version>
     </properties>
 
     <dependencies>
